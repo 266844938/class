@@ -2,7 +2,7 @@
 int main(void)
 {
     int n, sum = 0, term = 1;
-    printf("Entrr n:\n");
+    printf("Enter n:\n");
     scanf("%d", &n);
     for (int i = 1; i <= 5; i++)
     {

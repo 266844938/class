@@ -1,9 +1,7 @@
 #include<stdio.h>
 int main (void)
 {
-    int term,sum=0,n,tmp;
-    printf("Etermter term:\term");
-    scanf("%d",&n);
+    int term,sum,n,tmp;
     for(n=100;n<=999;n++)
     {
         sum=0;

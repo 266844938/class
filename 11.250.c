@@ -2,7 +2,7 @@
 int main (void)
 {
     int n,sum=0,term,tmp;
-    for("n=100;n<=999;n++")
+    for(n=100;n<=999;n++)
     {
         sum=0;
         tmp=n;

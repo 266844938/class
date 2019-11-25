@@ -1,14 +1,14 @@
-#include<stdio.h>
-int main (void)
+#include <stdio.h>
+int main(void)
 {
-   int i;
-    for(i=1;i<=5;i++)
+    int i;
+    for (i = 1; i <= 5; i++)
     {
-       
-    if (3==i) 
-        continue;
-       printf("%d\n",i);
- }   
-  printf("\n");
-  return 0;
+
+        if (3 == i)
+            continue;
+        printf("%d\n", i);
+    }
+    printf("\n");
+    return 0;
 }
